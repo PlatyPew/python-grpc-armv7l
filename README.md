@@ -7,3 +7,5 @@ You can find it at https://hub.docker.com/r/platypew/python-grpc-armv7l
 ```
 docker pull platypew/python-grpc-armv7l:latest
 ```
+
+You may need to run with privileged access if you get weird permission errors
